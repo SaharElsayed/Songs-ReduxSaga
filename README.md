@@ -4,7 +4,7 @@ React application making CRUD operations and using Redux and Redux saga as a mid
 ### `The application used technologies:`
 1- React js<br>
 2- Redux<br>
-3- Redux Thunk as a middleware<br>
+3- Redux Saga as a middleware<br>
 4- semantic UI<br>
 5- axios<br>
 ### `To serve the application follow this steps:`
